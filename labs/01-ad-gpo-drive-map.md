@@ -16,3 +16,10 @@
 - Join a Windows Pro client VM to the domain and test the GPO with `gpupdate /force` and `gpresult /r`
 - Retry printer sharing and find the root cause
 - Set a static IP on the domain controller
+
+## Screenshots
+
+<img width="1012" height="595" alt="03-item-level-targeting" src="https://github.com/user-attachments/assets/3780f563-9cfa-47ef-8b26-5512dfb815e0" />
+<img width="1723" height="1021" alt="02-drive-maps-gpo" src="https://github.com/user-attachments/assets/868c06e1-05b4-483b-92b4-5e7c5fd07890" />
+<img width="1015" height="712" alt="01-gpo-inheritance-staff" src="https://github.com/user-attachments/assets/7379ad18-dccf-4c82-944f-d0ac96729271" />
+
